@@ -4,7 +4,13 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 我的演讲的日程安排以及演讲资料下载。如果想要跟我做技术交流，[欢迎给我发邮件](mailto:lazyparser@gmail.com) :)
 
+## 2017
+
+- Jan ?: 中科创达 TBD.
+
 ## 2016
+
+- Dec ?: 锤子科技 TBD.
 
 - Dec 21: 乐视 Topic: TBD.
 
