@@ -12,11 +12,11 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2016
 
-- Dec 28: 锤子 [深度学习零基础入门及前沿介绍](https://github.com/lazyparser/talks/blob/master/slides/20161228-smartisan-DeepLearning.pdf)
+- Dec 28: 锤子 [深度学习零基础入门及前沿介绍](slides/20161228-smartisan-DeepLearning.pdf)
 
-- Dec 21: 乐视 [深度学习：入门、前沿、讨论](https://github.com/lazyparser/talks/blob/master/slides/20161221-letv-DeepLearning.pdf)
+- Dec 21: 乐视 [深度学习：入门、前沿、讨论](slides/20161221-letv-DeepLearning.pdf)
 
-- Dec 01: 小米 [深度学习: 基础, 前沿, 应用, 评价](https://github.com/lazyparser/talks/blob/master/slides/20161201-xiaomi-DeepLearning.pdf)
+- Dec 01: 小米 [深度学习: 基础, 前沿, 应用, 评价](slides/20161201-xiaomi-DeepLearning.pdf)
 
 - Oct 29: SACC2016架构师大会 [用 Tegra K1 加速人工智能在机器人中的应用](https://github.com/lazyparser/osdt16talk/blob/master/WeiWu-SACC16-OSDT16.pdf)
 
