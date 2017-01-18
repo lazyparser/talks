@@ -8,7 +8,7 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 - Jan ?: 软件所 面向老年人体面生活的创新和创业
 
-- Jan ?: 中科创达 TBD.
+- Jan 16: 中科创达 [深度学习零入门,前沿,讨论](20170116-thundersoft-DeepLearning-4x3.pdf)
 
 ## 2016
 
