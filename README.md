@@ -6,7 +6,13 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2017
 
-- Mar ??: 软件所 AFL的原理、实现、改进
+- June ??: TBD 带你进入ROS机器人开发
+
+- May ??: TBD 家庭妇男是一种怎样的体验
+
+- May ??: TBD 我从1000+个TED演讲中学到了什么
+
+- May ??: 软件所 AFL的原理、实现、改进
 
 - Feb 17: 软件所 [最好的告别——面向老年人体面生活的创新和创业](slides/20170217-being-mortal-github.pdf)
 
