@@ -8,11 +8,11 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 - July ??: TBD 带你进入ROS机器人开发
 
-- July ??: TBD 家庭妇男是一种怎样的体验
-
 - July ??: TBD 我从1000+个TED演讲中学到了什么
 
 - July ??: 软件所 AFL的原理、实现、改进
+
+- July 14: 软件所XLab [一名育儿哥的人生感悟](slides/20170714-being-parents-github.pdf)
 
 - Feb 17: 软件所 [最好的告别——面向老年人体面生活的创新和创业](slides/20170217-being-mortal-github.pdf)
 
