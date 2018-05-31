@@ -6,6 +6,12 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 如何需要下载单个幻灯片，可以点击对应的链接，选择raw格式查看，浏览器就会展示原始pdf文档，或自动下载。
 
+## 2018
+
+- July 1: HelloLLVM Meetup Shanghai 《码农硅工创业需要的财务常识》 TBD
+
+- May 19: HelloLLVM Meetup Beijing 《工业机器人中的编程语言和编程系统》（图片展示方式，没有slides）
+
 ## 2017
 
 - CANCELLED July ??: TBD 带你进入ROS机器人开发
