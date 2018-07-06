@@ -8,7 +8,9 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2018
 
-- July 1: HelloLLVM Meetup Shanghai 《码农硅工创业需要的财务常识》 TBD
+- July 28: HelloLLVM Meetup Hangzhou «我是如何没拿到博士学位的» TBD
+
+- July 1: HelloLLVM Meetup Shanghai [码农硅工创业需要的常识](slides/20180701-HelloLLVM-Shanghai.pdf)
 
 - May 19: HelloLLVM Meetup Beijing 《工业机器人中的编程语言和编程系统》（图片展示方式，没有slides）
 
