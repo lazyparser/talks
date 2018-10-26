@@ -8,7 +8,13 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2018
 
-- July 28: HelloLLVM Meetup Hangzhou «我是如何没拿到博士学位的» TBD
+- Oct 20: 南方程序分析论坛及HelloLLVM深圳站 «工业机器人编程语言及运行时系统»
+
+- Oct 17: 合肥工业大学第20期创业沙龙 合肥 «三十岁和二十岁的对话»
+
+- Sep 16: 南方程序分析论坛及HelloLLVM深圳站 «工业机器人编程语言及运行时系统» —— 因为台风取消
+
+- July 28: HelloLLVM Meetup Hangzhou «机器人编程语言»
 
 - July 1: HelloLLVM Meetup Shanghai [码农硅工创业需要的常识](slides/20180701-HelloLLVM-Shanghai.pdf)
 
@@ -41,4 +47,3 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 - Oct 14: ISCAS协同创新中心 [调试器的基本原理](https://github.com/lazyparser/slides-debugger-introduction/blob/master/%E8%B0%83%E8%AF%95%E5%99%A8%E7%9A%84%E5%9F%BA%E6%9C%AC%E5%8E%9F%E7%90%86%20-%20github.pdf)
 
 ## 2015
-
