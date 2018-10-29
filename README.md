@@ -8,6 +8,8 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2018
 
+- Oct 29: 北京工商大学 «机器人产业、创业和职业发展»
+
 - Oct 20: 南方程序分析论坛及HelloLLVM深圳站 «工业机器人编程语言及运行时系统»
 
 - Oct 17: 合肥工业大学第20期创业沙龙 合肥 «三十岁和二十岁的对话»
