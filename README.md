@@ -6,6 +6,10 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 如何需要下载单个幻灯片，可以点击对应的链接，选择raw格式查看，浏览器就会展示原始pdf文档，或自动下载。
 
+## 2019
+
+- Jan 19: HelloLLVM开发者线下聚会南京站 [交流PPT](slides/20190119-HelloLLVM-Nanjing.pdf)
+
 ## 2018
 
 - Oct 29: 北京工商大学 «机器人产业、创业和职业发展»
