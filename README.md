@@ -8,6 +8,8 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2019
 
+- Jun 13: [技术铁幕下的RISC-V软件生态如何建立](slides/20190613-build-software-ecosystem-for-RISC-V.pdf)
+
 - Jan 19: HelloLLVM开发者线下聚会南京站 [交流PPT](slides/20190119-HelloLLVM-Nanjing.pdf)
 
 ## 2018
