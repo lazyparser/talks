@@ -2,9 +2,9 @@
 
 Schedule and slides of my presentations. [Invitations are welcome](mailto:lazyparser@gmail.com).
 
-我的演讲的日程安排以及演讲资料下载。如果想要跟我做技术交流，[欢迎给我发邮件](mailto:lazyparser@gmail.com) :)
+我的演讲日程安排以及演讲资料下载。如果想要跟我做技术交流，[欢迎给我发邮件](mailto:lazyparser@gmail.com) :)
 
-如何需要下载单个幻灯片，可以点击对应的链接，选择raw格式查看，浏览器就会展示原始pdf文档，或自动下载。
+## 2020
 
 ## 2019
 
