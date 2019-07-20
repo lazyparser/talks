@@ -10,7 +10,7 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 - July 20: HelloLLVM/HelloGCC 杭州线下聚会 «TVM Tutorial 0x01: Introduction»
 
-- July 20: HelloLLVM/HelloGCC 杭州线下聚会 «如何进行GCC新人的培养»
+- July 20: HelloLLVM/HelloGCC 杭州线下聚会 [«如何进行GCC新人的培养»](slides/20190720-Why-and-How-to-Bringup-New-GCC-Contributors.pdf)
 
 - June 22: HelloLLVM/HelloGCC 上海线下聚会 «TVM是什么，现在入还来得及么？»
 
