@@ -8,6 +8,8 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2019
 
+- Nov 09: [《共促方舟开源：HelloGCC社区和PLCT实验室做的努力》](slides/20191109-OSDT19-OpenArkCompiler.pdf)
+
 - July 20: HelloLLVM/HelloGCC 杭州线下聚会 [«TVM Tutorial 0x01: Introduction»](slides/20190720-tvm-intro.pdf)
 
 - July 20: HelloLLVM/HelloGCC 杭州线下聚会 [«如何进行GCC新人的培养»](slides/20190720-Why-and-How-to-Bringup-New-GCC-Contributors.pdf)
