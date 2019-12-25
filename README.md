@@ -4,9 +4,16 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 我的演讲日程安排以及演讲资料下载。如果想要跟我做技术交流，[欢迎给我发邮件](mailto:lazyparser@gmail.com) :)
 
+## 编译技术入门与实战课程
+- https://github.com/lazyparser/becoming-a-compiler-engineer
+- https://github.com/lazyparser/becoming-a-compiler-engineer-codes
+- https://www.bilibili.com/video/av78503049
+
 ## 2020
 
 ## 2019
+
+- Dec 18: [长洲岛2020: PLCT在教育与培训领域的路线图](https://github.com/isrc-cas/PLCT-OpenDay-2019/blob/master/05-wuwei-Changzhoudao2020plan.pdf)
 
 - Nov 09: [《共促方舟开源：HelloGCC社区和PLCT实验室做的努力》](slides/20191109-OSDT19-OpenArkCompiler.pdf)
 
