@@ -11,6 +11,8 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2020
 
+- Jan 03: 杭州 方舟技术沙龙 HelloGCC对方舟开源编译器的支持路线图 slides TBD
+
 ## 2019
 
 - Dec 18: [长洲岛2020: PLCT在教育与培训领域的路线图](https://github.com/isrc-cas/PLCT-OpenDay-2019/blob/master/05-wuwei-Changzhoudao2020plan.pdf)
