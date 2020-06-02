@@ -11,6 +11,7 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2020
 
+- Jun 03: 杭州 Internal Sharing [《将AOSP移植到RISC-V平台：有多难?》](slides/20200603-AOSP-RISCV-Porting-Survey.pdf)
 - Jan 03: 杭州 方舟技术沙龙 HelloGCC对方舟开源编译器的支持路线图 slides TBD
 
 ## 2019
