@@ -11,6 +11,7 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2020
 
+- Oct 15: 上海 IC China RISC-V 分论坛 [《RISC-V开源软件生态》](slides/20201015-RISCV-Software-Ecosystem.pdf)
 - July 21: 线上 HSSLab [《软件开源就能行？走进RISC-V软件生态》](slides/20200721-RISCV-for-HSSLab-v1.pdf) [video](https://www.bilibili.com/video/BV1L5411a7Zg)
 - Jun 03: 杭州 Internal Sharing [《将AOSP移植到RISC-V平台：有多难?》](slides/20200603-AOSP-RISCV-Porting-Survey.pdf) [video](https://www.bilibili.com/video/BV1wC4y1a7Za)
 - Jan 03: 杭州 方舟技术沙龙 HelloGCC对方舟开源编译器的支持路线图 slides TBD
