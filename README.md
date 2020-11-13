@@ -11,6 +11,7 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2020
 
+- Nov 14: 南京 开源软件供应链2020峰会 [RISC-V开源软件生态](slides/20201114-RISC-V-Open-Source-Ecosystem.pdf)
 - Nov 1: 青岛/线上 智能计算机与芯片联合大会 [RISC-V开源软件生态现状以及为什么你现在就应该加入](slides/20201101-RISCV-Software-Ecosystem.pdf)
 - Oct 15: 上海 IC China RISC-V 分论坛 [《RISC-V开源软件生态》](slides/20201015-RISCV-Software-Ecosystem.pdf)
 - July 21: 线上 HSSLab [《软件开源就能行？走进RISC-V软件生态》](slides/20200721-RISCV-for-HSSLab-v1.pdf) [video](https://www.bilibili.com/video/BV1L5411a7Zg)
