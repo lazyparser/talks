@@ -28,6 +28,8 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2020
 
+- Dec 16: 线上 两岸RISC-V生态发展交流会 [RISC-V软件生态近期发展](slides//20201216-RISCV-Meeting-between-mainland-taiwan.pdf)
+- Dec 15: 线上 RISC-V 基金会 code speed optimization SIG 例会 [Proposal: Performance Tracking System](slides//20201215-proposal-code-speed-tracker.pdf)
 - Dec 04: 线上 PLCT开放日2020 PLCT实验室2021年路线图 [video](https://www.bilibili.com/video/BV1wt4y1k7cN?p=1)
 - Nov 14: 南京 开源软件供应链2020峰会 [RISC-V开源软件生态](slides/20201114-RISC-V-Open-Source-Ecosystem.pdf)
 - Nov 1: 青岛/线上 智能计算机与芯片联合大会 [RISC-V开源软件生态现状以及为什么你现在就应该加入](slides/20201101-RISCV-Software-Ecosystem.pdf)
