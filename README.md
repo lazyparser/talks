@@ -26,6 +26,10 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 [02](https://www.bilibili.com/video/BV1zA41177SH)、
 [01](https://www.bilibili.com/video/BV1454y1m7EF)。
 
+## 2021
+
+- Jan 26: Online, Internal Seminar, [目前RISC-V软件生态的进展](slides/20210126-RISCV-SW-OBTF.pdf)
+
 ## 2020
 
 - Dec 16: 线上 两岸RISC-V生态发展交流会 [RISC-V软件生态近期发展](slides//20201216-RISCV-Meeting-between-mainland-taiwan.pdf)
