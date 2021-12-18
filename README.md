@@ -28,6 +28,7 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2021
 
+- Dec 18: Online, OSDT Conf 2021, [OSDT Conf 2021: Annual Community Review (With Panel)](slides/20211218-OSDTConf2021.pdf)
 - Dec 17: Online, PLCT OpenDay 2021, [PLCT2021：一整年的努力、惊喜、和拖延](slides/20211217-PLCT2021-Reflection.pdf)
 - Jan 26: Online, Internal Seminar, [目前RISC-V软件生态的进展](slides/20210126-RISCV-SW-OBTF.pdf)
 
