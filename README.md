@@ -26,6 +26,10 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 [02](https://www.bilibili.com/video/BV1zA41177SH)、
 [01](https://www.bilibili.com/video/BV1454y1m7EF)。
 
+## 2022
+
+- Apr 15: Online, ODD 2022, [openEuler在RISC-V生态中的建设与展望](slides/20220415-openEuler-Dev-Day-RISC-V.pdf)
+
 ## 2021
 
 - Dec 18: Online, OSDT Conf 2021, [OSDT Conf 2021: Annual Community Review (With Panel)](slides/20211218-OSDTConf2021.pdf)
