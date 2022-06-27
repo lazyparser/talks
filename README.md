@@ -28,6 +28,7 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2022
 
+- June 18: Online, OpenHW AWG Seminar, [OpenHW软件工作组工作介绍](slides/20220618-OpenHW-AWG-Software-TG-Intro-v2.pdf)
 - May 27: Online, RT-Thread全球技术大会, [RISC-V指令集开源生态](slides/20220527-RV-Soft-Ecosystem.pdf)
 - Apr 15: Online, ODD 2022, [openEuler在RISC-V生态中的建设与展望](slides/20220415-openEuler-Dev-Day-RISC-V.pdf)
 
