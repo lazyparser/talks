@@ -28,6 +28,7 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2022
 
+- Nov 03: Hangzhou, 云栖大会, [快速发展的RISC-V软件生态](slides/20221103-RISCV-Ecosystem-OpenAnolis-v3.pdf)
 - Sept 25: Online, DatenLord Seminar, [RISC-V 给国内操作系统领域带来的机遇和挑战](slides/20220925-RISCV-OS.pdf)
 - Sept 17: Online, USTC SFD, [开源软件世界拥抱RISC-V](slides/20220917-USTC-SFD.pdf)
 - June 18: Online, OpenHW AWG Seminar, [OpenHW软件工作组工作介绍](slides/20220618-OpenHW-AWG-Software-TG-Intro-v2.pdf)
