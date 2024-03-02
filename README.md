@@ -26,6 +26,10 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 [02](https://www.bilibili.com/video/BV1zA41177SH)、
 [01](https://www.bilibili.com/video/BV1454y1m7EF)。
 
+## 2024
+
+- Mar 02: Online, 甲辰计划第001次直播，[甲辰计划：一个震动全球的大炮仗](slides/20240302-Jiachen-Project-Intro.pdf)
+
 ## 2023
 
 - Jan 12: Online, 电子发烧友年度技术专场（RISC-V技术分享会）, [RUYISDK:面向RISC-V开发人员的软件全家桶计划](slides/20230112-RuyiSDK-Introduction.pdf)
