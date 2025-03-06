@@ -4,31 +4,10 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 我的演讲日程安排以及演讲资料下载。如果想要跟我做技术交流，[欢迎给我发邮件](mailto:lazyparser@gmail.com) :)
 
-## 编译技术入门与实战课程
-
-2019秋 **编译技术入门与实战**：
-[课程资料](https://github.com/lazyparser/becoming-a-compiler-engineer),
-[练习代码](https://github.com/lazyparser/becoming-a-compiler-engineer-codes),
-[视频](https://www.bilibili.com/video/av78503049)
-
-2020秋 **PLCT编译器设计讨论班**：
-
-讨论视频
-[11](https://www.bilibili.com/video/BV1kp4y1z7JU)、
-[10](https://www.bilibili.com/video/BV1nv411r7yf)、
-[09](https://www.bilibili.com/video/BV1iz4y1y7Xe)、
-[08](https://www.bilibili.com/video/BV1hv411r7ns)、
-[07](https://www.bilibili.com/video/bv1PA411j79G)、
-[06](https://www.bilibili.com/video/BV1Tz4y1y7Ng)、
-[05](https://www.bilibili.com/video/BV14t4y1e7nJ)、
-[04](https://www.bilibili.com/video/BV1Qt4y1Y7yc)、
-[03](https://www.bilibili.com/video/bv1Ky4y1879o)、
-[02](https://www.bilibili.com/video/BV1zA41177SH)、
-[01](https://www.bilibili.com/video/BV1454y1m7EF)。
-
 ## 2024
 
 - Mar 02: Online, 甲辰计划第001次直播，[甲辰计划：一个震动全球的大炮仗](slides/20240302-Jiachen-Project-Intro.pdf)
+
 
 ## 2023
 
@@ -61,6 +40,21 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 - Jun 03: 杭州 Internal Sharing [《将AOSP移植到RISC-V平台：有多难?》](slides/20200603-AOSP-RISCV-Porting-Survey.pdf) [video](https://www.bilibili.com/video/BV1wC4y1a7Za)
 - Jan 03: 杭州 方舟技术沙龙 HelloGCC对方舟开源编译器的支持路线图 slides TBD
 
+## 编译技术入门与实战课程 2020秋 **PLCT编译器设计讨论班**：
+
+讨论视频
+[11](https://www.bilibili.com/video/BV1kp4y1z7JU)、
+[10](https://www.bilibili.com/video/BV1nv411r7yf)、
+[09](https://www.bilibili.com/video/BV1iz4y1y7Xe)、
+[08](https://www.bilibili.com/video/BV1hv411r7ns)、
+[07](https://www.bilibili.com/video/bv1PA411j79G)、
+[06](https://www.bilibili.com/video/BV1Tz4y1y7Ng)、
+[05](https://www.bilibili.com/video/BV14t4y1e7nJ)、
+[04](https://www.bilibili.com/video/BV1Qt4y1Y7yc)、
+[03](https://www.bilibili.com/video/bv1Ky4y1879o)、
+[02](https://www.bilibili.com/video/BV1zA41177SH)、
+[01](https://www.bilibili.com/video/BV1454y1m7EF)。
+
 ## 2019
 
 - Dec 18: [长洲岛2020: PLCT在教育与培训领域的路线图](https://github.com/isrc-cas/PLCT-OpenDay-2019/blob/master/05-wuwei-Changzhoudao2020plan.pdf)
@@ -71,6 +65,12 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 - June 22: HelloLLVM/HelloGCC 上海线下聚会 «TVM是什么，现在入还来得及么？» (same as [«TVM Tutorial 0x01: Introduction»](slides/20190720-tvm-intro.pdf) )
 - June 13: [技术铁幕下的RISC-V软件生态如何建立](slides/20190613-build-software-ecosystem-for-RISC-V.pdf)
 - Jan 19: HelloLLVM开发者线下聚会南京站 [交流PPT](slides/20190119-HelloLLVM-Nanjing.pdf)
+
+## 编译技术入门与实战课程 2019秋 **编译技术入门与实战**：
+
+[课程资料](https://github.com/lazyparser/becoming-a-compiler-engineer),
+[练习代码](https://github.com/lazyparser/becoming-a-compiler-engineer-codes),
+[视频](https://www.bilibili.com/video/av78503049)
 
 ## 2018
 
