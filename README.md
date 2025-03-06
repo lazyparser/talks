@@ -4,6 +4,10 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 我的演讲日程安排以及演讲资料下载。如果想要跟我做技术交流，[欢迎给我发邮件](mailto:lazyparser@gmail.com) :)
 
+## 2025
+
+- Feb 27: Tokyo, RISC-V Day Tokyo 2025 Spring. **Vision, Mission, Roadmap of the Jiachen Project (KUBUS Perspective)**, [Slides](slides/20250227-tokyo-jiachen.pdf), [Youtube](https://www.youtube.com/watch?v=gsd5cEQYuYE), [Bilibili](https://www.bilibili.com/video/BV1rf9oYME9v)
+
 ## 2024
 
 - Mar 02: Online, 甲辰计划第001次直播，[甲辰计划：一个震动全球的大炮仗](slides/20240302-Jiachen-Project-Intro.pdf)
