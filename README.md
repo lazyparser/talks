@@ -6,14 +6,14 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2025
 
+- May 25: 合肥工业大学，开源之夏校园行活动。幻灯片无变化。
+- May 24: 中国科学技术大学，开源之夏校园行活动。幻灯片无变化。
 - May 10: 大连理工大学，开源之夏校园行活动。 [Slides](slides/20250510-DLUT-RISCV-and-FOSS-best-match.pdf).
-
 - Feb 27: Tokyo, RISC-V Day Tokyo 2025 Spring. **Vision, Mission, Roadmap of the Jiachen Project (KUBUS Perspective)**, [Slides](slides/20250227-tokyo-jiachen.pdf), [Youtube](https://www.youtube.com/watch?v=gsd5cEQYuYE), [Bilibili](https://www.bilibili.com/video/BV1rf9oYME9v)
 
 ## 2024
 
 - Mar 02: Online, 甲辰计划第001次直播，[甲辰计划：一个震动全球的大炮仗](slides/20240302-Jiachen-Project-Intro.pdf)
-
 
 ## 2023
 
