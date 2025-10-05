@@ -6,6 +6,11 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2025
 
+- Nov 28: TBA，武汉，CCF中国软件大会（ChinaSoft）RISC-V分论坛。
+- Nov 26: TBA，香港，首届RISC-V生态系统论坛。
+- Sept 24: 《甲辰计划开源实习生联合招聘培养》，合肥工业大学，合肥RISC-V开放日。
+- Sept 23: 《甲辰计划开源实习生联合招聘培养》，安徽大学，RISC-V校园行。
+- Sept 19: 《RISC-V软件生态的机遇与挑战》，大湾区RISC-V软件生态研讨会。
 - May 25: 合肥工业大学，开源之夏校园行活动。幻灯片无变化。
 - May 24: 中国科学技术大学，开源之夏校园行活动。幻灯片无变化。
 - May 10: 大连理工大学，开源之夏校园行活动。 [Slides](slides/20250510-DLUT-RISCV-and-FOSS-best-match.pdf).
