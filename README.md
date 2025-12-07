@@ -6,6 +6,7 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 ## 2025
 
+- Dec 7: 2025 OSDT 社区回顾 @ OSDT Conf 2025. [Slides](slides/2025-OSDT-Annual-Revew.pdf).
 - Nov 28: TBA，武汉，CCF中国软件大会（ChinaSoft）RISC-V分论坛。
 - Nov 26: TBA，香港，首届RISC-V生态系统论坛。
 - Sept 24: 《甲辰计划开源实习生联合招聘培养》，合肥工业大学，合肥RISC-V开放日。
