@@ -4,6 +4,10 @@ Schedule and slides of my presentations. [Invitations are welcome](mailto:lazypa
 
 我的演讲日程安排以及演讲资料下载。如果想要跟我做技术交流，[欢迎给我发邮件](mailto:lazyparser@gmail.com) :)
 
+## 2026
+
+- Sept 6: RT-Thread 社区进展分析. [Slides](slides/20260906-RT-Thread-Monthly-Meetup.pdf), [Video](#).
+
 ## 2025
 
 - Dec 7: 2025 OSDT 社区回顾 @ OSDT Conf 2025. [Slides](slides/2025-OSDT-Annual-Revew.pdf).
